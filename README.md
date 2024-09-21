@@ -10,8 +10,7 @@
 ## 🔧 Tech Stack
 
 - **Languages**: Java, Python, C, Node.js
-- **Frameworks**: Spring, Quarkus, Flask, Express.js
-- **Front-end Development (SSR)**: JSP, Thymeleaf
+- **Frameworks**: Spring, Quarkus, JSF, Flask, Express.js
 - **Databases**: MySQL, PostgreSQL, MongoDB
 - **DevOps**: Docker, CI/CD, Linux System Administration
 - **Industrial Protocols**: MTConnect, Modbus, MQTT
