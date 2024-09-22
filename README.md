@@ -1,6 +1,6 @@
 # 🌟 Hello! I'm Francisco Ricardo Taborda Aguiar
 
-- 👨‍💻 **Back-end Developer** with extensive experience in **software development**, **databases**, and **system integration**.
+- 👨‍💻 **Software engineer** with extensive experience in **back-end development**, **databases**, and **system integration**.
 - 🧠 Passionate about solving **complex problems** and optimizing solutions.
 - 📚 Continuously learning and exploring **new technologies** to stay current.
 - ☕ Enjoy working with **Java**, but I’m flexible and always open to using the **best tool for the job**.
@@ -10,10 +10,10 @@
 ## 🔧 Tech Stack
 
 - **Languages**: Java, Python, C, Node.js
-- **Frameworks**: Spring, Quarkus, JSF, Flask, Express.js
+- **Frameworks**: Spring, Quarkus, Thymeleaf, Flask, Express.js
 - **Databases**: MySQL, PostgreSQL, MongoDB
 - **DevOps**: Docker, CI/CD, Linux System Administration
-- **Industrial Protocols**: MTConnect, Modbus, MQTT
+- **Industrial Protocols**: MTConnect, Modbus, MQTT, WebSocket
 
 ---
 
