@@ -1,33 +1,72 @@
 # 🌟 Hello! I'm Francisco Ricardo Taborda Aguiar
 
-- 👨‍💻 **Software engineer** with extensive experience in **back-end development**, **databases**, and **system integration**.
-- 🧠 Passionate about solving **complex problems** and optimizing solutions.
-- 🎯 Experienced in Expert Systems and Regression Algorithms, with a growing interest in ML Engineering.
-- 📚 Currently studying Deep Learning frameworks like PyTorch and TensorFlow to expand my expertise in AI and Machine Learning.
+- 👨‍💻 Experienced **software engineer** and **back-end developer** with a strong background in **server-side solutions**, **databases**, and **systems integration**.
+- 🧠 Enthusiastic about solving **complex problems** and optimizing solutions.
+- 🎯 Adept in the development of **Expert Systems** and the application of **Regression Algorithms**, with a growing interest in **ML Engineering**.
+- 📚 Currently studying **Deep Learning** frameworks like **PyTorch** and **TensorFlow** to expand my expertise in **AI** and **Machine Learning**.
 - ☕ Enjoy working with **Java** and **Python**, but I’m flexible and always open to using the **best tool for the job**.
 
 ---
 
 ## 🔧 Tech Stack
 
-- **Languages**: Java, Python, C, Node.js
-- **Frameworks**: Spring, Quarkus, Python FastAPI, Express.js
+- **Programming Languages**: Java, Python, C, Node.js
+- **Web Frameworks**: Spring, Quarkus, FastAPI (Python), Express.js  (Node.js)
 - **Databases**: MySQL, PostgreSQL, MongoDB
-- **AI Tools**: Weka, JESS, CLIPS
+- **ML Tools**: Weka, JESS, CLIPS
 - **Python Tools**: Pandas, NumPy, NumExpr, Numba, Gunicorn
-- **Shell Scripting**: Perl, Bash, Csh, Awk
-- **Industrial Protocols**: MTConnect, Modbus, MQTT, WebSocket
+- **Scripting Languages**: Perl, Bash, Csh, Awk
+- **DevOps & Tools**: Docker, Git, Make, Latex
+- **Industrial Protocols**: MTConnect, Modbus, MQTT
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Open Source Projects
 
 - [**WKT2GeoJSON**](https://github.com/francisco-ricardo/wkt2geojson) - Open-source tool to convert WKT to GeoJSON using **C**, **Flex/Bison**.
 - [**Graph Data Structures (graphs-ds)**](https://github.com/francisco-ricardo/graphs_ds) - Implementation of graph data structures in Java, part of my open-source contributions.
 
 ---
 
+## 📝 Articles
+
+- [**Transpilation from NC Files to Canonical Machining Functions**](https://www.researchgate.net/publication/357079212_TRANSPILATION_FROM_NC_FILES_TO_CANONICAL_MACHINING_FUNCTIONS)
+- [**Real-time assessment of the overall effectiveness of legacy machine tools**](https://doi.org/10.1007/s11740-024-01284-0)
+
+---
+
+## 🗒️ Posts
+
+- [**Graphs: Overview**](https://github.com/francisco-ricardo/graphs_post)
+- [**Machine Translation: Brief Overview**](https://github.com/francisco-ricardo/ntm_post)
+
+---
+
+## 📈 Current Focus
+
+I'm currently enhancing my knowledge in **deep learning** frameworks like **PyTorch** and **TensorFlow** to expand my skill set in **Machine Learning**.
+
+---
+
 ## 📫 Let's Connect
+
+Feel free to check out my repositories and get in touch! I'm always open to discussing exciting projects and collaboration opportunities.
 
 - [LinkedIn](https://www.linkedin.com/in/franciscoricardotabordaaguiar)
 - [Email](mailto:franciscoricardo.dev@gmail.com)
+
+
+
+
+
+
+
+## 🚀 What I Do
+
+- **Server-Side Development**: Creating **scalable** and **reliable** REST APIs and CLI applications.
+- **System Automation**: Automating workflows in **manufacturing** and **engineering systems**.
+- **Linux Systems Administration**: Ensuring **optimized server performance** and high availability.
+- **Machine Learning**: Adept in **Expert Systems** and applying **Regression Algorithms**.
+
+---
+
