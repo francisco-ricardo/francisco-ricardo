@@ -1,7 +1,8 @@
 # 🌟 Hello! I'm Francisco Ricardo Taborda Aguiar
 
-- 👨‍💻 Experienced **software engineer** and **back-end developer** with a strong background in **server-side solutions**, **databases**, and **systems integration**.
+- 👨‍💻 Experienced **software engineer** and **back-end developer** with a strong background in **server-side solutions**, **CLI applications**, **databases**, and **systems integration**.
 - 🧠 Enthusiastic about solving **complex problems** and optimizing solutions.
+- 🐧 Extensive experience with **Linux** systems administration, ensuring server performance and reliability.
 - 🎯 Adept in the development of **Expert Systems** and the application of **Regression Algorithms**, with a growing interest in **ML Engineering**.
 - 📚 Currently studying **Deep Learning** frameworks like **PyTorch** and **TensorFlow** to expand my expertise in **AI** and **Machine Learning**.
 - ☕ Enjoy working with **Java** and **Python**, but I’m flexible and always open to using the **best tool for the job**.
@@ -55,18 +56,4 @@ Feel free to check out my repositories and get in touch! I'm always open to disc
 - [LinkedIn](https://www.linkedin.com/in/franciscoricardotabordaaguiar)
 - [Email](mailto:franciscoricardo.dev@gmail.com)
 
-
-
-
-
-
-
-## 🚀 What I Do
-
-- **Server-Side Development**: Creating **scalable** and **reliable** REST APIs and CLI applications.
-- **System Automation**: Automating workflows in **manufacturing** and **engineering systems**.
-- **Linux Systems Administration**: Ensuring **optimized server performance** and high availability.
-- **Machine Learning**: Adept in **Expert Systems** and applying **Regression Algorithms**.
-
 ---
-
