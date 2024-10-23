@@ -4,8 +4,8 @@
 - 🧠 Enthusiastic about solving **complex problems** and optimizing solutions.
 - 🐧 Extensive experience with **Linux** systems administration, ensuring server performance and reliability.
 - 🎯 Adept in the development of **Expert Systems** and the application of **Regression Algorithms**, with a growing interest in **ML Engineering**.
+- ☕ I’m flexible and always open to using the **best tool for the job**.
 - 📚 Currently studying **Deep Learning** frameworks like **PyTorch** and **TensorFlow** to expand my expertise in **AI** and **Machine Learning**.
-- ☕ Enjoy working with **Java** and **Python**, but I’m flexible and always open to using the **best tool for the job**.
 
 ---
 
