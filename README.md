@@ -4,7 +4,7 @@
 - 🧠 Enthusiastic about solving **complex problems** and optimizing solutions.
 - 🐧 Extensive experience with **Linux** systems administration, ensuring server performance and reliability.
 - 🎯 Adept in the development of **Expert Systems** and the application of **Regression Algorithms**, with a growing interest in **ML Engineering**.
-- ☕ I’m flexible and always open to using the **best tool for the job**.
+- 🛠️ I’m flexible and always open to using the **best tool for the job**.
 - 📚 Currently studying **Deep Learning** frameworks like **PyTorch** and **TensorFlow** to expand my expertise in **AI** and **Machine Learning**.
 
 ---
@@ -24,8 +24,8 @@
 
 ## 🚀 Open Source Projects
 
-- [**WKT2GeoJSON**](https://github.com/francisco-ricardo/wkt2geojson) - Open-source tool to convert WKT to GeoJSON using **C**, **Flex/Bison**.
-- [**Graph Data Structures (graphs-ds)**](https://github.com/francisco-ricardo/graphs_ds) - Implementation of graph data structures in Java, part of my open-source contributions.
+- [**WKT2GeoJSON**](https://github.com/francisco-ricardo/wkt2geojson) - An open-source tool developed in **C** using **Flex/Bison** to convert Well-Known Text (WKT) to GeoJSON, facilitating data interoperability in GIS applications.
+- [**Graph Data Structures (graphs-ds)**](https://github.com/francisco-ricardo/graphs_ds) - Implementation of various graph data structures in **Java**, designed to support algorithms for traversals and data manipulation in graph-based applications.
 
 ---
 
