@@ -62,12 +62,6 @@
 
 ---
 
-## 📈 Current Focus
-
-I'm currently enhancing my knowledge in **deep learning** frameworks like **PyTorch** and **TensorFlow** to expand my skill set in **Machine Learning**.
-
----
-
 ## 📫 Let's Connect
 
 Feel free to check out my repositories and get in touch! I'm always open to discussing exciting projects and collaboration opportunities.
