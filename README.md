@@ -31,15 +31,15 @@
 
 ## Academic Works
 
-- Master's Dissertation: Master's Degree in Production Engineering (2024)
+- **Master's Dissertation**: Master's Degree in Production Engineering (2024)
   - [Interpretation of RS274-D Dialects and Temporal Data Extraction in CNC Machines](http://hdl.handle.net/1884/87312)
   - Development of a methodology to interpret NC programming dialects, enabling the extraction of structured data for simulating and analyzing machining processes.
 
-- Specialization Thesis: Specialization in Databases (2011)
+- **Specialization Thesis**: Specialization in Databases (2011)
   - [Study and Application of Linear Regression in the Manufacturing Process of Printed Circuit Boards](https://doi.org/10.13140/RG.2.2.11516.14728)
   - Application of Linear Regression and machine learning algorithms to predict drilling cycle time in PCB manufacturing, leveraging data mining techniques and Python-based data extraction.
 
-- Undergraduate Thesis: Information Technology (2006)
+- **Undergraduate Thesis**: Information Technology (2006)
   - [Development of an Expert System for Generating Public Tender Notices ](https://doi.org/10.13140/RG.2.2.23663.65447)
   - Development of an expert system using AI techniques to automate the creation of public tender notices, implemented with the Jess rule engine on the Java platform.
 
