@@ -31,7 +31,7 @@
 
 ## Academic Works
 
-- **Master's Dissertation**: Master's Degree in Production Engineering (2024)
+- **Master's Dissertation**: Master's Degree in Manufacturing Engineering (2024)
   - [Interpretation of RS274-D Dialects and Temporal Data Extraction in CNC Machines](http://hdl.handle.net/1884/87312)
   - Development of a methodology to interpret NC programming dialects, enabling the extraction of structured data for simulating and analyzing machining processes.
 
@@ -54,8 +54,11 @@
 
 ## 🗒️ Posts
 
-- [**Graphs: Overview**](https://github.com/francisco-ricardo/graphs_post)
+- [**Graphs**](https://github.com/francisco-ricardo/graphs_post)
+  - An introduction to graph theory and its applications, covering fundamental definitions, key algorithms, and implementation strategies in computer science.
+
 - [**Machine Translation: Brief Overview**](https://github.com/francisco-ricardo/ntm_post)
+  - An overview of machine translation, exploring the evolution from statistical methods to neural networks and the impact of NMT systems on modern translation technologies.
 
 ---
 
