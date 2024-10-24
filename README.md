@@ -44,6 +44,7 @@
 
 - Specialization Thesis: Specialization in Databases (2011)
   - [Study and Application of Linear Regression in the Manufacturing Process of Printed Circuit Boards](https://doi.org/10.13140/RG.2.2.11516.14728)
+  - Application of Linear Regression and machine learning algorithms to predict drilling cycle time in PCB manufacturing, leveraging data mining techniques and Python-based data extraction.
 
 - Undergraduate Thesis: Information Technology (2006)
   - [Development of an Expert System for Generating Public Tender Notices ](https://doi.org/10.13140/RG.2.2.23663.65447)
