@@ -3,8 +3,8 @@
 - 👨‍💻 Experienced **software engineer** and **back-end developer** with a strong background in **server-side solutions**, **CLI applications**, **databases**, and **systems integration**.
 - 🧠 Enthusiastic about solving **complex problems** and optimizing solutions.
 - 🐧 Extensive experience with **Linux** systems administration, ensuring server performance and reliability.
-- 🎯 Adept in the development of **Expert Systems** and the application of **Regression Algorithms**, with a growing interest in **ML Engineering**.
-- 🛠️ I’m flexible and always open to using the **best tool for the job**.
+- 🎯 Adept in the development of **Expert Systems** and the application of **Regression Algorithms**.
+- 🛠️ Flexible and always open to using the **best tool for the job**.
 - 📚 Currently studying **Deep Learning** frameworks like **PyTorch** and **TensorFlow** to expand my expertise in **AI** and **Machine Learning**.
 
 ---
@@ -33,6 +33,13 @@
 
 - [**Transpilation from NC Files to Canonical Machining Functions**](https://www.researchgate.net/publication/357079212_TRANSPILATION_FROM_NC_FILES_TO_CANONICAL_MACHINING_FUNCTIONS)
 - [**Real-time assessment of the overall effectiveness of legacy machine tools**](https://doi.org/10.1007/s11740-024-01284-0)
+
+---
+
+## Academic Works
+
+- Master's Dissertation: Master's Degree in Production Engineering (2024)
+  - [Thesis: Interpretation of RS274-D Dialects and Temporal Data Extraction in CNC Machines](http://hdl.handle.net/1884/87312)
 
 ---
 
