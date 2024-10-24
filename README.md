@@ -1,6 +1,6 @@
 # 🌟 Hello! I'm Francisco Ricardo Taborda Aguiar
 
-- 👨‍💻 Experienced **software engineer** and **back-end developer** with a strong background in **server-side solutions**, **CLI applications**, **databases**, and **systems integration**.
+- 👨‍💻 Experienced **software engineer** and **back-end developer** with a strong background in **server-side solutions**, **CLI applications**, **database management**, and **systems integration**.
 - 🧠 Enthusiastic about solving **complex problems** and optimizing solutions.
 - 🐧 Extensive experience with **Linux** systems administration, ensuring server performance and reliability.
 - 🎯 Adept in the development of **Expert Systems** and the application of **Regression Algorithms**.
