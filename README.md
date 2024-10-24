@@ -29,13 +29,6 @@
 
 ---
 
-## 📝 Articles
-
-- [**Transpilation from NC Files to Canonical Machining Functions**](https://www.researchgate.net/publication/357079212_TRANSPILATION_FROM_NC_FILES_TO_CANONICAL_MACHINING_FUNCTIONS)
-- [**Real-time assessment of the overall effectiveness of legacy machine tools**](https://doi.org/10.1007/s11740-024-01284-0)
-
----
-
 ## Academic Works
 
 - Master's Dissertation: Master's Degree in Production Engineering (2024)
@@ -48,6 +41,14 @@
 
 - Undergraduate Thesis: Information Technology (2006)
   - [Development of an Expert System for Generating Public Tender Notices ](https://doi.org/10.13140/RG.2.2.23663.65447)
+  - Development of an expert system using AI techniques to automate the creation of public tender notices, implemented with the Jess rule engine on the Java platform.
+
+---
+
+## 📝 Articles
+
+- [**Transpilation from NC Files to Canonical Machining Functions**](https://www.researchgate.net/publication/357079212_TRANSPILATION_FROM_NC_FILES_TO_CANONICAL_MACHINING_FUNCTIONS)
+- [**Real-time assessment of the overall effectiveness of legacy machine tools**](https://doi.org/10.1007/s11740-024-01284-0)
 
 ---
 
