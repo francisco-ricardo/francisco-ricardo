@@ -107,15 +107,9 @@ A comprehensive library implementing graph data structures with both adjacency l
 
 ---
 
-## 📊 GitHub Stats
-
-[![Francisco's GitHub stats](https://github-readme-stats.vercel.app/api?username=francisco-ricardo&show_icons=true&theme=radical)](https://github.com/francisco-ricardo)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=francisco-ricardo&layout=compact&theme=radical)](https://github.com/francisco-ricardo)
-
 ## 📫 Let's Connect!
 
-- LinkedIn: [francisco-aguiar-3ab650a0](https://www.linkedin.com/in/francisco-aguiar-3ab650a0/)
+- LinkedIn: [francisco-aguiar-3ab650a0](http://www.linkedin.com/in/francisco-aguiar-3ab650a0)
 - Email: franciscoricardo.dev@gmail.com
 - GitHub: [francisco-ricardo](https://github.com/francisco-ricardo)
 
