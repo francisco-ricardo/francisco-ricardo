@@ -109,7 +109,7 @@ A comprehensive library implementing graph data structures with both adjacency l
 
 ## 📫 Let's Connect!
 
-- LinkedIn: [francisco-aguiar-3ab650a0](http://www.linkedin.com/in/francisco-aguiar-3ab650a0)
+- LinkedIn: [francisco-aguiar-3ab650a0](https://www.linkedin.com/in/francisco-ricardo-taborda-aguiar-3ab650a0/)
 - Email: franciscoricardo.dev@gmail.com
 - GitHub: [francisco-ricardo](https://github.com/francisco-ricardo)
 
