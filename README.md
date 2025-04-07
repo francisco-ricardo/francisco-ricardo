@@ -59,12 +59,12 @@ With 20+ years of experience developing software for demanding environments, I c
 
 ## 📚 Featured Projects
 
-### Real-Time Monitoring System
+### FactoryDash
 Real-time monitoring system with WebSocket updates, demonstrating expertise in event-driven architecture and real-time data processing.
 
 - **Tech Stack**: Django, Channels, Celery, Redis, PostgreSQL
 - **Features**: WebSocket communication, asynchronous processing, time-series data
-- [View Repository](https://github.com/francisco-ricardo/realtime-monitor)
+- [View Repository](https://github.com/francisco-ricardo/factorydash)
 
 ### WKT2GeoJSON
 A C-based transpiler for converting WKT (Well-Known Text) to GeoJSON format, demonstrating expertise in compiler construction, parsing (Flex/Bison), and geospatial data processing.
