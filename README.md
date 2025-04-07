@@ -2,7 +2,8 @@
 # Francisco Ricardo Taborda Aguiar
 
 ## About Me
-Senior Software Engineer specializing in high-performance back-end systems, database engineering, and complex integrations. I build robust, scalable solutions that solve challenging technical problems across industries, delivering measurable results including a 59% reduction in CAM Engineering execution time through process automation, a 20% improvement in database performance, and a 30% reduction in sales process time through system integration.
+Senior Software Engineer specializing in high-performance back-end systems, database engineering, and complex integrations. I build robust, scalable solutions that solve challenging technical problems across industries, delivering measurable results 
+— for example, achieving a 59% reduction in CAM Engineering execution time through process automation, a 20% improvement in database performance, and a 30% reduction in sales process time through system integration.
 
 With 20+ years of experience developing software for demanding environments, I combine deep technical expertise with practical problem-solving to create systems that perform under pressure. Currently available for remote opportunities worldwide.
 
