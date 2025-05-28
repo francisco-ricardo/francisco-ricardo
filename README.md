@@ -1,6 +1,8 @@
 
 # Francisco Ricardo Taborda Aguiar
 
+![Hiring: Actively Seeking Remote Roles](https://img.shields.io/badge/Hiring-Actively%20Seeking%20Remote%20Roles-blue?style=flat-square&logo=github)
+
 ## About Me
 Senior Software Engineer specializing in high-performance back-end systems, database engineering, and complex integrations. I build robust, scalable solutions that solve challenging technical problems across industries, delivering measurable results.
 
@@ -9,13 +11,18 @@ Among my recent achievements are:
 - 20% improvement in database performance through comprehensive optimization strategies
 - 30% reduction in sales process time via intelligent system integration
 
-With 20+ years of experience developing software for demanding environments, I combine deep technical expertise with practical problem-solving to create systems that perform under pressure. Currently available for remote opportunities worldwide.
+With 9 years of Java (Spring Boot, Quarkus), 10 years of Python (Django, Flask, FastAPI), and 2+ years of Node.js (Express), I deliver secure, scalable solutions using microservices, RESTful APIs, and event-driven architectures. 
+Skilled in DevOps (Docker, Kubernetes, AWS, CI/CD), database optimization (MySQL, PostgreSQL, MongoDB), and TDD (JUnit, Mockito, Pytest), I apply Clean Code, SOLID principles, and Domain-Driven Design (DDD) to build robust systems.
 
-- 🔭 Currently working on high-performance distributed systems
-- 🌱 Learning PyTorch and exploring Kubernetes
-- 💬 Ask me about back-end architecture, database optimization, or system integration
+- 🔭 Working on high-performance distributed systems
+- 🌱 Deepening expertise in Kubernetes and cloud-native architectures
+- 💬 Ask me about backend development, DevOps, or system optimization
 - 📫 Reach me at: franciscoricardo.dev@gmail.com
 - 🌎 Location: Brazil (GMT-3) - Available for remote work worldwide
+
+Currently available for remote opportunities worldwide.
+
+---
 
 ## 🛠️ Technical Skills
 
@@ -50,12 +57,17 @@ With 20+ years of experience developing software for demanding environments, I c
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
+---
+
 ### Domain Expertise
-- **Back-End Architecture**: API design, Distributed systems, Microservices
-- **Database Engineering**: Performance optimization, Schema design, Query tuning
-- **System Integration**: API development, Data exchange, Heterogeneous systems
-- **Process Automation**: Workflow optimization, File processing, ETL pipelines
-- **Performance Engineering**: Profiling, Optimization, Resource utilization
+- **Backend Development**: Microservices, RESTful APIs, Event-Driven Architecture, Java (Spring Boot, Quarkus), Python (Django, Flask, FastAPI), Node.js (Express)
+- **Database Optimization**: Schema Design, Query Tuning, Performance Optimization, MySQL, PostgreSQL, MongoDB, Redis
+- **DevOps & Cloud**: Docker, Kubernetes, AWS, CI/CD, GitHub Actions, Linux, Containerization, Cloud-Native Architectures
+- **System Integration & ETL**: API Development, Data Pipelines, Heterogeneous System Integration, RabbitMQ, MQTT, WebSockets
+- **Security & Testing**: JWT, Spring Security, OWASP Top 10, TDD, Unit Testing, JUnit, Mockito, Pytest
+- **Process Automation**: Workflow Optimization, ETL Pipelines, RPA, Data Processing (Pandas, Polars, NumPy)
+
+---
 
 ## 📚 Featured Projects
 
@@ -107,7 +119,9 @@ A comprehensive library implementing graph data structures with both adjacency l
 
 ## 📝 Articles
 
+- [**Designing Scalable Real-Time Dashboards with WebSockets**](https://www.linkedin.com/pulse/designing-scalable-real-time-dashboards-websockets-francisco-ptu1f)
 - [**Transpilation from NC Files to Canonical Machining Functions**](https://1drv.ms/b/c/5ebd6cc8a14ce5bf/EeMsB75xLalAiKakXW6wMbkBLU4zyOeMeM8ZYKEI03mZjw)
+- [**The Future of Smart Manufacturing Digital Twins: Driving Industry 4.0**](https://www.linkedin.com/pulse/future-smart-manufacturing-digital-twins-driving-40-francisco-whvoc)
 - [**Real-time assessment of the overall effectiveness of legacy machine tools**](https://doi.org/10.1007/s11740-024-01284-0)
 
 ---
