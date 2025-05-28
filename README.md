@@ -20,8 +20,6 @@ Skilled in DevOps (Docker, Kubernetes, AWS, CI/CD), database optimization (MySQL
 - 📫 Reach me at: franciscoricardo.dev@gmail.com
 - 🌎 Location: Brazil (GMT-3) - Available for remote work worldwide
 
-Currently available for remote opportunities worldwide.
-
 ---
 
 ## 🛠️ Technical Skills
@@ -39,6 +37,7 @@ Currently available for remote opportunities worldwide.
 ![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white)
 ![GraalVM](https://img.shields.io/badge/GraalVM-EF2D5E?style=for-the-badge&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-Framework-green?style=flat-square&logo=python)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
@@ -65,7 +64,7 @@ Currently available for remote opportunities worldwide.
 - **DevOps & Cloud**: Docker, Kubernetes, AWS, CI/CD, GitHub Actions, Linux, Containerization, Cloud-Native Architectures
 - **System Integration & ETL**: API Development, Data Pipelines, Heterogeneous System Integration, RabbitMQ, MQTT, WebSockets
 - **Security & Testing**: JWT, Spring Security, OWASP Top 10, TDD, Unit Testing, JUnit, Mockito, Pytest
-- **Process Automation**: Workflow Optimization, ETL Pipelines, RPA, Data Processing (Pandas, Polars, NumPy)
+- **Process Automation**: Workflow Optimization, ETL Pipelines, RPA, Data Processing (Pandas, NumPy)
 
 ---
 
