@@ -1,8 +1,6 @@
 
 # Francisco Ricardo Taborda Aguiar
 
-![Hiring: Actively Seeking Remote Roles](https://img.shields.io/badge/Hiring-Actively%20Seeking%20Remote%20Roles-blue?style=flat-square&logo=github)
-
 ## About Me
 Senior Software Engineer specializing in high-performance back-end systems, database engineering, and complex integrations. I build robust, scalable solutions that solve challenging technical problems across industries, delivering measurable results.
 
